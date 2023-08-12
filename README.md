@@ -9,7 +9,7 @@ This is a simple URL shortener project implemented in Python. It allows you to c
 
 ## Prerequisites
 
-- Python 3.x
+- Python IDLE or Visual Studio Code
 
 ## Installation
 
